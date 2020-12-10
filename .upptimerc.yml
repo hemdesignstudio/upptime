@@ -4,8 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Hem.com
+  - name: hem.com
     url: https://www.hem.com
+  - name: stage.hem.com
+    url: https://stage.hem.com
+  - name: beta.hem.com
+    url: https://beta.hem.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

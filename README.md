@@ -1,6 +1,4 @@
-# <!--live status--> **🟩 All systems operational**
-
-Performance and availability monitoring [Hem](https://www.hem.com/).
+# Performance and availability monitoring: <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/hemdesignstudio/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/hemdesignstudio/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/hemdesignstudio/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/hemdesignstudio/upptime/actions?query=workflow%3A%22Response+Time+CI%22)

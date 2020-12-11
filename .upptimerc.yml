@@ -8,29 +8,33 @@ sites:
     url: https://www.hem.com
   - name: Hem Stage
     url: https://stage.hem.com
+    icon: https://stage.hem.com/icons/icon-48x48.png
   - name: Hem Beta
     url: https://beta.hem.com
+    icon: https://beta.hem.com/icons/icon-48x48.png
   - name: Storm Middleware Production
     url: https://storm-middleware-production.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
+    method: GET
   - name: Storm Middleware Staging 
     url: https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
+    method: GET
 
-status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.hem.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  publish: true
-  apiBaseUrl: https://api.github.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+# status-website:
+#   Add your custom domain below, or remove the next line if you don't have a domain
+#   cname: status.hem.com
+#   # Uncomment the following line if you don't have a custom domain and add your repo name
+#   # baseUrl: /upptime
+#   publish: true
+#   apiBaseUrl: https://api.github.com
+#   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+#   name: Upptime
+#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+#   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

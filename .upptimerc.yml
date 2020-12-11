@@ -4,12 +4,16 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: hem.com
+  - name: Hem
     url: https://www.hem.com
-  - name: stage.hem.com
+  - name: Hem Stage
     url: https://stage.hem.com
-  - name: beta.hem.com
+  - name: Hem Beta
     url: https://beta.hem.com
+  - name: Storm Middleware Production
+    url: https://storm-middleware-production.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
+  - name: Storm Middleware Staging 
+    url: https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

@@ -1,7 +1,7 @@
 url: https://storm-middleware-production.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3  
-status: up
+status: degraded
 code: 200
-responseTime: 942
-lastUpdated: 2020-12-13T23:06:05.485Z
+responseTime: 5504
+lastUpdated: 2020-12-14T09:38:03.536Z
 startTime: Fri Dec 11 2020 05:22:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

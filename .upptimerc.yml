@@ -6,22 +6,22 @@ repo: upptime # Your Github repository name
 sites:
   - name: Hem
     url: https://www.hem.com
-    maxResponseTime: 2000
+    maxResponseTime: 5000
   - name: Hem Stage
     url: https://stage.hem.com
-    maxResponseTime: 2000
+    maxResponseTime: 5000
     icon: https://stage.hem.com/icons/icon-48x48.png
   - name: Hem Beta
     url: https://beta.hem.com
-    maxResponseTime: 2000
+    maxResponseTime: 5000
     icon: https://beta.hem.com/icons/icon-48x48.png
   - name: Storm Middleware Production
     url: https://storm-middleware-production.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
-    maxResponseTime: 2000
+    maxResponseTime: 5000
     method: GET
   - name: Storm Middleware Staging 
     url: https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
-    maxResponseTime: 2000
+    maxResponseTime: 5000
     method: GET
 
 # status-website:

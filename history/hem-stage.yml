@@ -1,7 +1,7 @@
 url: https://stage.hem.com
-status: degraded
+status: up
 code: 200
-responseTime: 5446
-lastUpdated: 2021-01-24T14:04:06.030Z
+responseTime: 597
+lastUpdated: 2021-01-24T14:49:21.123Z
 startTime: Fri Dec 11 2020 05:22:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

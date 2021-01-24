@@ -88,9 +88,9 @@
     "url": "https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3",
     "icon": "https://favicons.githubusercontent.com/storm-middleware-staging.herokuapp.com",
     "slug": "storm-middleware-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
@@ -100,6 +100,7 @@
     "timeMonth": 2044,
     "timeYear": 1890,
     "dailyMinutesDown": {
+      "2021-01-24": 0,
       "2021-01-12": 50,
       "2020-12-21": 70,
       "2020-12-11": 28

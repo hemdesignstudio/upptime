@@ -47,9 +47,9 @@
     "url": "https://beta.hem.com",
     "icon": "https://beta.hem.com/icons/icon-48x48.png",
     "slug": "hem-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -59,6 +59,7 @@
     "timeMonth": 1336,
     "timeYear": 1302,
     "dailyMinutesDown": {
+      "2021-02-06": 0,
       "2020-12-15": 26,
       "2020-12-14": 14
     }

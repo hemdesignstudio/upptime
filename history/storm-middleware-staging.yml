@@ -1,7 +1,7 @@
 url: https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
-status: up
-code: 200
-responseTime: 1119
-lastUpdated: 2021-02-20T23:05:58.094Z
+status: down
+code: 500
+responseTime: 838
+lastUpdated: 2021-02-21T22:49:13.252Z
 startTime: Fri Dec 11 2020 05:22:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

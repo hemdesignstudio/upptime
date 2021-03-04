@@ -15,14 +15,6 @@ sites:
     url: https://beta.hem.com
     maxResponseTime: 5000
     icon: https://beta.hem.com/icons/icon-48x48.png
-  - name: Storm Middleware Production
-    url: https://storm-middleware-production.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
-    maxResponseTime: 5000
-    method: GET
-  - name: Storm Middleware Staging
-    url: https://storm-middleware-staging.herokuapp.com/api/v1/products/part-no=10041?statuses=1&statuses=3
-    maxResponseTime: 5000
-    method: GET
   - name: Hem Commerce
     url: https://hem-commerce.herokuapp.com/api/v1/health/
     maxResponseTime: 5000

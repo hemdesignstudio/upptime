@@ -7,14 +7,6 @@ sites:
   - name: Hem
     url: https://www.hem.com
     maxResponseTime: 5000
-  - name: Hem Stage
-    url: https://stage.hem.com
-    maxResponseTime: 5000
-    icon: https://stage.hem.com/icons/icon-48x48.png
-  - name: Hem Beta
-    url: https://beta.hem.com
-    maxResponseTime: 5000
-    icon: https://beta.hem.com/icons/icon-48x48.png
   - name: Hem Commerce
     url: https://hem-commerce.herokuapp.com/api/v1/health/
     maxResponseTime: 5000

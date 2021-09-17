@@ -25,7 +25,7 @@
     "url": "https://hem-commerce.herokuapp.com/api/v1/health/",
     "icon": "https://favicons.githubusercontent.com/hem-commerce.herokuapp.com",
     "slug": "hem-commerce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

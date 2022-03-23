@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.hem.com",
     "slug": "hem",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 231,
-    "timeWeek": 249,
-    "timeMonth": 258,
-    "timeYear": 272,
+    "time": 268,
+    "timeDay": 625,
+    "timeWeek": 303,
+    "timeMonth": 272,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 572,
-    "timeWeek": 549,
-    "timeMonth": 490,
-    "timeYear": 501,
+    "timeDay": 573,
+    "timeWeek": 548,
+    "timeMonth": 489,
+    "timeYear": 502,
     "dailyMinutesDown": {}
   }
 ]

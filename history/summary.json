@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 372,
-    "timeWeek": 277,
-    "timeMonth": 235,
+    "timeDay": 238,
+    "timeWeek": 281,
+    "timeMonth": 228,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/hem-commerce.herokuapp.com",
     "slug": "hem-commerce",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 301,
+    "timeDay": 571,
     "timeWeek": 465,
-    "timeMonth": 517,
-    "timeYear": 508,
+    "timeMonth": 510,
+    "timeYear": 509,
     "dailyMinutesDown": {}
   }
 ]

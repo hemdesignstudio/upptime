@@ -1,7 +1,7 @@
 url: https://beta.hem.com/en-eu/
-status: down
-code: 503
-responseTime: 4931
-lastUpdated: 2022-09-15T12:28:13.843Z
+status: up
+code: 200
+responseTime: 21
+lastUpdated: 2022-09-15T12:48:27.649Z
 startTime: Thu Sep 15 2022 08:20:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

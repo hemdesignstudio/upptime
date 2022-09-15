@@ -1,7 +1,7 @@
 url: https://beta.hem.com/en-us/
-status: degraded
-code: 503
-responseTime: 5377
-lastUpdated: 2022-09-15T15:27:56.973Z
+status: up
+code: 200
+responseTime: 3778
+lastUpdated: 2022-09-15T15:39:43.300Z
 startTime: Thu Sep 15 2022 08:21:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

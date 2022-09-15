@@ -8,7 +8,7 @@ sites:
     url: https://www.hem.com
     maxResponseTime: 5000
   - name: Hem Commerce
-    url: https://hem-commerce.herokuapp.com/api/v1/health/
+    url: https://commerce.hem.com/api/v1/health/
     maxResponseTime: 5000
     method: GET
   - name: Hem Beta EU B2C

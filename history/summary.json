@@ -4,7 +4,7 @@
     "url": "https://www.hem.com",
     "icon": "https://favicons.githubusercontent.com/www.hem.com",
     "slug": "hem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1541,
     "timeDay": 132,
-    "timeWeek": 1541,
+    "timeWeek": 1326,
     "timeMonth": 1541,
     "timeYear": 1541,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2396,
     "timeDay": 164,
-    "timeWeek": 2396,
+    "timeWeek": 1979,
     "timeMonth": 2396,
     "timeYear": 2396,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1849,
     "timeDay": 17,
-    "timeWeek": 1849,
+    "timeWeek": 1400,
     "timeMonth": 1849,
     "timeYear": 1849,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1988,
     "timeDay": 17,
-    "timeWeek": 1988,
+    "timeWeek": 1678,
     "timeMonth": 1988,
     "timeYear": 1988,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 18,
-    "timeWeek": 998,
+    "timeWeek": 883,
     "timeMonth": 998,
     "timeYear": 998,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1823,
     "timeDay": 28,
-    "timeWeek": 1823,
+    "timeWeek": 848,
     "timeMonth": 1823,
     "timeYear": 1823,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 156,
-    "timeWeek": 506,
+    "timeWeek": 523,
     "timeMonth": 506,
     "timeYear": 506,
     "dailyMinutesDown": {}

@@ -1,7 +1,7 @@
 url: https://pro-signup.hem.com/
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2022-09-29T23:02:01.083Z
+status: degraded
+code: 503
+responseTime: 5460
+lastUpdated: 2022-09-30T13:35:16.143Z
 startTime: Thu Sep 15 2022 08:21:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://beta.pro.hem.com/en-eu/
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2022-10-24T23:02:00.545Z
+status: degraded
+code: 503
+responseTime: 15213
+lastUpdated: 2022-10-25T18:24:24.882Z
 startTime: Thu Sep 15 2022 08:20:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

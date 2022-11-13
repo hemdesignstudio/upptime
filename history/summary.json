@@ -148,17 +148,17 @@
     "url": "https://pro-signup.hem.com/",
     "icon": "https://favicons.githubusercontent.com/pro-signup.hem.com",
     "slug": "hem-pro-signup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 162,
-    "timeWeek": 156,
-    "timeMonth": 154,
-    "timeYear": 325,
+    "time": 322,
+    "timeDay": 149,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   }
 ]

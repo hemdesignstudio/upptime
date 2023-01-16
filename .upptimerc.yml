@@ -6,50 +6,36 @@ repo: upptime # Your Github repository name
 sites:
   - name: Hem B2C
     url: https://hem.com/
-    maxResponseTime: 5000
 
   - name: Hem B2C EU
     url: https://hem.com/en-eu/
-    maxResponseTime: 5000
 
   - name: Hem B2C US
     url: https://hem.com/en-us/
-    maxResponseTime: 5000
 
   - name: Hem B2C CA
     url: https://hem.com/en-ca/
-    maxResponseTime: 5000
 
   - name: Hem B2B
     url: https://pro.hem.com/
-    maxResponseTime: 5000
 
   - name: Hem B2B EU 
     url: https://pro.hem.com/en-eu/
-    maxResponseTime: 5000
 
   - name: Hem B2B US 
     url: https://pro.hem.com/en-us/
-    maxResponseTime: 5000
 
   - name: Hem B2C UK 
     url: https://pro.hem.com/en-gb/
-    maxResponseTime: 5000
 
   - name: Hem Pro Signup
     url: https://pro-signup.hem.com/
-    maxResponseTime: 5000
 
   - name: Hem Commerce
     url: https://commerce.hem.com/api/v1/health/
-    maxResponseTime: 5000
-    method: GET
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.hem.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  cname: status.hem.com
   publish: true
   apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

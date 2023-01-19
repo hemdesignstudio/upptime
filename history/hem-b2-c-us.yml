@@ -1,7 +1,7 @@
 url: https://hem.com/en-us/
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2023-01-18T23:01:59.781Z
+status: down
+code: 504
+responseTime: 175
+lastUpdated: 2023-01-19T23:01:50.524Z
 startTime: Mon Jan 16 2023 12:56:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

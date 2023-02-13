@@ -34,6 +34,9 @@ sites:
   - name: Hem Commerce
     url: https://commerce.hem.com/api/v1/health/
 
+  - name: Search API
+    url: https://dq56azlcmuwh2i90p.a1.typesense.net/health/
+
 status-website:
   cname: status.hem.com
   publish: true

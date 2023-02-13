@@ -178,5 +178,23 @@
     "timeMonth": 585,
     "timeYear": 590,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Search API",
+    "url": "https://dq56azlcmuwh2i90p.a1.typesense.net/health/",
+    "icon": "https://favicons.githubusercontent.com/dq56azlcmuwh2i90p.a1.typesense.net",
+    "slug": "search-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
+    "dailyMinutesDown": {}
   }
 ]

@@ -31,7 +31,7 @@
     "time": 1121,
     "timeDay": 1882,
     "timeWeek": 3160,
-    "timeMonth": 1121,
+    "timeMonth": 1150,
     "timeYear": 1121,
     "dailyMinutesDown": {}
   },
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 2932,
-    "timeWeek": 1381,
-    "timeMonth": 582,
+    "timeWeek": 1534,
+    "timeMonth": 596,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 897,
     "timeDay": 8573,
     "timeWeek": 2963,
-    "timeMonth": 897,
+    "timeMonth": 921,
     "timeYear": 897,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 505,
     "timeDay": 3724,
     "timeWeek": 1332,
-    "timeMonth": 505,
+    "timeMonth": 517,
     "timeYear": 505,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 799,
     "timeDay": 4256,
     "timeWeek": 2037,
-    "timeMonth": 799,
+    "timeMonth": 819,
     "timeYear": 799,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1804,
     "timeDay": 8037,
     "timeWeek": 4738,
-    "timeMonth": 1804,
+    "timeMonth": 1848,
     "timeYear": 1804,
     "dailyMinutesDown": {}
   },
@@ -138,8 +138,8 @@
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 6952,
-    "timeWeek": 2188,
-    "timeMonth": 998,
+    "timeWeek": 2512,
+    "timeMonth": 1025,
     "timeYear": 998,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "url": "https://commerce.hem.com/api/v1/health/",
     "icon": "https://favicons.githubusercontent.com/commerce.hem.com",
     "slug": "hem-commerce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

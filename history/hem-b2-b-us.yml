@@ -1,7 +1,7 @@
 url: https://pro.hem.com/en-us/
-status: up
-code: 200
-responseTime: 4971
-lastUpdated: 2023-02-15T23:01:56.114Z
+status: down
+code: 429
+responseTime: 10467
+lastUpdated: 2023-02-16T08:28:38.325Z
 startTime: Mon Jan 16 2023 12:56:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

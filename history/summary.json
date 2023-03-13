@@ -112,17 +112,17 @@
     "url": "https://pro.hem.com/en-us/",
     "icon": "https://favicons.githubusercontent.com/pro.hem.com",
     "slug": "hem-b2-b-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1197,
-    "timeDay": 24,
-    "timeWeek": 237,
-    "timeMonth": 989,
-    "timeYear": 1197,
+    "time": 1202,
+    "timeDay": 760,
+    "timeWeek": 417,
+    "timeMonth": 1006,
+    "timeYear": 1202,
     "dailyMinutesDown": {}
   },
   {
@@ -193,7 +193,7 @@
     "time": 155,
     "timeDay": 181,
     "timeWeek": 131,
-    "timeMonth": 155,
+    "timeMonth": 156,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
